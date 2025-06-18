@@ -1,7 +1,7 @@
 ---
 name: Good practices
 about: Crea un documento explicando las mejores practicas para documentar los casos de uso.
-title: "GOOD PRACTICES DOCUMENTATION] Descripción breve"
+title: "[GOOD PRACTICES DOCUMENTATION] Descripción breve"
 labels: documentation
 assignees: ""
 ---
